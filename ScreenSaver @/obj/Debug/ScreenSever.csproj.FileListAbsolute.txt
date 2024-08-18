@@ -1,6 +1,0 @@
-C:\Users\Georgi 3\Documents\Visual Studio 2013\Projects\Games\ScreenSever\bin\Debug\ScreenSever.exe.config
-C:\Users\Georgi 3\Documents\Visual Studio 2013\Projects\Games\ScreenSever\bin\Debug\ScreenSever.exe
-C:\Users\Georgi 3\Documents\Visual Studio 2013\Projects\Games\ScreenSever\bin\Debug\ScreenSever.pdb
-C:\Users\Georgi 3\Documents\Visual Studio 2013\Projects\Games\ScreenSever\obj\Debug\ScreenSever.exe
-C:\Users\Georgi 3\Documents\Visual Studio 2013\Projects\Games\ScreenSever\obj\Debug\ScreenSever.pdb
-C:\Users\Georgi 3\Documents\Visual Studio 2013\Projects\Games\ScreenSever\obj\Debug\ScreenSever.csprojResolveAssemblyReference.cache
