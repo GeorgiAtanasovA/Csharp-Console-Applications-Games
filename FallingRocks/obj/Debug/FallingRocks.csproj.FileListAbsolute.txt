@@ -1,0 +1,27 @@
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\FallingRocks\bin\Debug\FallingRocks.exe.config
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\FallingRocks\bin\Debug\FallingRocks.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\FallingRocks\bin\Debug\FallingRocks.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\FallingRocks\obj\Debug\FallingRocks.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\FallingRocks\obj\Debug\FallingRocks.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\FallingRocks\obj\Debug\FallingRocks.csprojResolveAssemblyReference.cache
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Games - Console\FallingRocks\bin\Debug\FallingRocks.exe.config
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Games - Console\FallingRocks\obj\Debug\FallingRocks.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Games - Console\FallingRocks\obj\Debug\FallingRocks.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Console Games\FallingRocks\bin\Debug\FallingRocks.exe.config
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Console Games\FallingRocks\obj\Debug\FallingRocks.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Console Games\FallingRocks\obj\Debug\FallingRocks.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Console Games\FallingRocks\bin\Debug\FallingRocks.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Console Games\FallingRocks\bin\Debug\FallingRocks.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Console Games\FallingRocks\obj\Debug\FallingRocks.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\Games Georgi\C# - Console Games\FallingRocks\bin\Debug\FallingRocks.exe.config
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\Games Georgi\C# - Console Games\FallingRocks\obj\Debug\FallingRocks.exe
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\Games Georgi\C# - Console Games\FallingRocks\obj\Debug\FallingRocks.pdb
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\Games Georgi\C# - Console Games\FallingRocks\bin\Debug\FallingRocks.exe
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\Games Georgi\C# - Console Games\FallingRocks\bin\Debug\FallingRocks.pdb
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\Games Georgi\C# - Console Games\FallingRocks\obj\Debug\FallingRocks.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\FallingRocks\bin\Debug\FallingRocks.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\FallingRocks\obj\Debug\FallingRocks.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\FallingRocks\obj\Debug\FallingRocks.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\FallingRocks\bin\Debug\FallingRocks.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\FallingRocks\bin\Debug\FallingRocks.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\FallingRocks\obj\Debug\FallingRocks.csprojResolveAssemblyReference.cache
