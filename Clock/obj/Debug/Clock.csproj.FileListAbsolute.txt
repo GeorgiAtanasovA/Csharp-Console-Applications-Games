@@ -1,0 +1,30 @@
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Clock\bin\Debug\Clock.exe.config
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Clock\bin\Debug\Clock.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Clock\bin\Debug\Clock.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Clock\obj\Debug\Clock.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Clock\obj\Debug\Clock.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Games - Console\Clock\bin\Debug\Clock.exe.config
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Games - Console\Clock\obj\Debug\Clock.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Games - Console\Clock\obj\Debug\Clock.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Games - Console\Clock\bin\Debug\Clock.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Games - Console\Clock\bin\Debug\Clock.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Games - Console\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Console Games\Clock\bin\Debug\Clock.exe.config
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Console Games\Clock\obj\Debug\Clock.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Console Games\Clock\obj\Debug\Clock.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Console Games\Clock\bin\Debug\Clock.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Console Games\Clock\bin\Debug\Clock.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Console Games\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\Games Georgi\C# - Console Games\Clock\bin\Debug\Clock.exe.config
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\Games Georgi\C# - Console Games\Clock\obj\Debug\Clock.exe
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\Games Georgi\C# - Console Games\Clock\obj\Debug\Clock.pdb
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\Games Georgi\C# - Console Games\Clock\bin\Debug\Clock.exe
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\Games Georgi\C# - Console Games\Clock\bin\Debug\Clock.pdb
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\Games Georgi\C# - Console Games\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\Clock\bin\Debug\Clock.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\Clock\obj\Debug\Clock.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\Clock\obj\Debug\Clock.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\Clock\bin\Debug\Clock.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\Clock\bin\Debug\Clock.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
