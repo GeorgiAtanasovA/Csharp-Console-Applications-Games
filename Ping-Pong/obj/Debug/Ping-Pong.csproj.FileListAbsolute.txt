@@ -1,0 +1,21 @@
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Ping-Pong\bin\Debug\Ping-Pong.exe.config
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Ping-Pong\bin\Debug\Ping-Pong.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Ping-Pong\bin\Debug\Ping-Pong.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Ping-Pong\obj\Debug\Ping-Pong.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Ping-Pong\obj\Debug\Ping-Pong.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Ping-Pong\obj\Debug\Ping-Pong.csprojResolveAssemblyReference.cache
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Games - Console\Ping-Pong\bin\Debug\Ping-Pong.exe.config
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Games - Console\Ping-Pong\bin\Debug\Ping-Pong.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Games - Console\Ping-Pong\bin\Debug\Ping-Pong.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Games - Console\Ping-Pong\obj\Debug\Ping-Pong.csprojResolveAssemblyReference.cache
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Games - Console\Ping-Pong\obj\Debug\Ping-Pong.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Games - Console\Ping-Pong\obj\Debug\Ping-Pong.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Console Games\Ping-Pong\bin\Debug\Ping-Pong.exe.config
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Console Games\Ping-Pong\obj\Debug\Ping-Pong.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Games Georgi\Console Games\Ping-Pong\obj\Debug\Ping-Pong.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\Ping-Pong\bin\Debug\Ping-Pong.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\Ping-Pong\obj\Debug\Ping-Pong.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\Ping-Pong\obj\Debug\Ping-Pong.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\Ping-Pong\bin\Debug\Ping-Pong.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\Ping-Pong\bin\Debug\Ping-Pong.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\Ping-Pong\obj\Debug\Ping-Pong.csprojResolveAssemblyReference.cache
