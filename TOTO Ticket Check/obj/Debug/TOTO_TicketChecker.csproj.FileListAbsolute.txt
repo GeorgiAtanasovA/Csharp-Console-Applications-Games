@@ -1,0 +1,6 @@
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\TOTO Ticket Check\bin\Debug\TOTO_TicketChecker.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\TOTO Ticket Check\bin\Debug\TOTO_TicketChecker.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\TOTO Ticket Check\bin\Debug\TOTO_TicketChecker.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\TOTO Ticket Check\obj\Debug\TOTO_TicketChecker.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\TOTO Ticket Check\obj\Debug\TOTO_TicketChecker.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\TOTO Ticket Check\obj\Debug\TOTO_TicketChecker.csprojResolveAssemblyReference.cache

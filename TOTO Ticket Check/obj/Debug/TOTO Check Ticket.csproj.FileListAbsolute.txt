@@ -1,0 +1,29 @@
+C:\Users\Georgi 3\Documents\Visual Studio 2013\Projects\Games\TOTO Check Ticket\bin\Debug\TOTO Check Ticket.exe.config
+C:\Users\Georgi 3\Documents\Visual Studio 2013\Projects\Games\TOTO Check Ticket\bin\Debug\TOTO Check Ticket.exe
+C:\Users\Georgi 3\Documents\Visual Studio 2013\Projects\Games\TOTO Check Ticket\bin\Debug\TOTO Check Ticket.pdb
+C:\Users\Georgi 3\Documents\Visual Studio 2013\Projects\Games\TOTO Check Ticket\obj\Debug\TOTO Check Ticket.exe
+C:\Users\Georgi 3\Documents\Visual Studio 2013\Projects\Games\TOTO Check Ticket\obj\Debug\TOTO Check Ticket.pdb
+C:\Users\Georgi 3\Documents\Visual Studio 2013\Projects\Games\TOTO Check Ticket\obj\Debug\TOTO Check Ticket.csprojResolveAssemblyReference.cache
+C:\Users\Georgi 4\Documents\Visual Studio 2013\Projects\Games\TOTO Check Ticket\bin\Debug\TOTO Check Ticket.exe.config
+C:\Users\Georgi 4\Documents\Visual Studio 2013\Projects\Games\TOTO Check Ticket\obj\Debug\TOTO Check Ticket.exe
+C:\Users\Georgi 4\Documents\Visual Studio 2013\Projects\Games\TOTO Check Ticket\obj\Debug\TOTO Check Ticket.pdb
+C:\Users\Georgi 4\Documents\Visual Studio 2013\Projects\Games\TOTO Check Ticket\bin\Debug\TOTO Check Ticket.exe
+C:\Users\Georgi 4\Documents\Visual Studio 2013\Projects\Games\TOTO Check Ticket\bin\Debug\TOTO Check Ticket.pdb
+C:\Users\Georgi 4\Documents\Visual Studio 2015\Projects\Games\TOTO Check Ticket\bin\Debug\TOTO Check Ticket.exe.config
+C:\Users\Georgi 4\Documents\Visual Studio 2015\Projects\Games\TOTO Check Ticket\obj\Debug\TOTO Check Ticket.exe
+C:\Users\Georgi 4\Documents\Visual Studio 2015\Projects\Games\TOTO Check Ticket\obj\Debug\TOTO Check Ticket.pdb
+C:\Users\Georgi 4\Documents\Visual Studio 2015\Projects\Games\TOTO Check Ticket\bin\Debug\TOTO Check Ticket.exe
+C:\Users\Georgi 4\Documents\Visual Studio 2015\Projects\Games\TOTO Check Ticket\bin\Debug\TOTO Check Ticket.pdb
+C:\Users\Georgi 4\Documents\Visual Studio 2015\Projects\Games\TOTO Check Ticket\obj\Debug\TOTO Check Ticket.csprojResolveAssemblyReference.cache
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki Georgi\TOTO Check Ticket\bin\Debug\TOTO Check Ticket.exe.config
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki Georgi\TOTO Check Ticket\obj\Debug\TOTO Check Ticket.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki Georgi\TOTO Check Ticket\obj\Debug\TOTO Check Ticket.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki Georgi\TOTO Check Ticket\bin\Debug\TOTO Check Ticket.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki Georgi\TOTO Check Ticket\bin\Debug\TOTO Check Ticket.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki Georgi\TOTO Check Ticket\obj\Debug\TOTO Check Ticket.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\TOTO Ticket Check\bin\Debug\TOTO_Ticket_Checker.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\TOTO Ticket Check\bin\Debug\TOTO_Ticket_Checker.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\TOTO Ticket Check\bin\Debug\TOTO_Ticket_Checker.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\TOTO Ticket Check\obj\Debug\TOTO_Ticket_Checker.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\TOTO Ticket Check\obj\Debug\TOTO_Ticket_Checker.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\TOTO Ticket Check\obj\Debug\TOTO Check Ticket.csprojResolveAssemblyReference.cache
