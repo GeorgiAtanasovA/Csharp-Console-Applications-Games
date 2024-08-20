@@ -1,0 +1,5 @@
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\ScreenSaver @\bin\Debug\ScreenSever_@.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\ScreenSaver @\bin\Debug\ScreenSever_@.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\ScreenSaver @\bin\Debug\ScreenSever_@.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\ScreenSaver @\obj\Debug\ScreenSever_@.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Console Games App\ScreenSaver @\obj\Debug\ScreenSever_@.pdb
